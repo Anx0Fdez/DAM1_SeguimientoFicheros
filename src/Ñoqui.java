@@ -4,5 +4,8 @@ public class Ñoqui {
         System.out.println("ME GUSTAN LOS ÑOQUIS");
         // Los raviolis es un plato clasico italiano
 
+        System.out.println("Ingredientes Ñoquis");
+
+
     }
 }
